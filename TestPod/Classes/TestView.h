@@ -13,6 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)testMethond;
 
++ (void)testMethond2;
+
 @end
 
 NS_ASSUME_NONNULL_END

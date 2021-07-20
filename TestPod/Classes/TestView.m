@@ -13,4 +13,8 @@
     NSLog(@"测试方法");
 }
 
++ (void)testMethond2{
+    NSLog(@"测试方法");
+}
+
 @end
