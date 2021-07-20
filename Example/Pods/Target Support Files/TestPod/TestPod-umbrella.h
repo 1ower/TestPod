@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "TestView.h"
 
 FOUNDATION_EXPORT double TestPodVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestPodVersionString[];
