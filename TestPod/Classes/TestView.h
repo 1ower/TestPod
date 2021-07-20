@@ -11,6 +11,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TestView : UIView
 
++ (void)testMethond;
+
 @end
 
 NS_ASSUME_NONNULL_END

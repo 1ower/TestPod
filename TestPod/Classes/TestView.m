@@ -9,5 +9,8 @@
 
 @implementation TestView
 
++ (void)testMethond{
+    NSLog(@"测试方法");
+}
 
 @end
